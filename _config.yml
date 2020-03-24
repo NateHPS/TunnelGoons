@@ -1,3 +1,9 @@
 name: Tunnel Goons
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
+title: Tunnel Goons blog
+description: Tunnel Goons TTRPG
+author: Nate Treme

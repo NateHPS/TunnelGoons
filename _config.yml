@@ -1,3 +1,4 @@
-name: Tunnel Goons, System Reference Document
+name: Tunnel Goons
+name: System Reference Document
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

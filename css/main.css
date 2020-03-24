@@ -23,6 +23,7 @@ a:hover {
 h1 {
     font-size: 4em;
     font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
 }
 p {
     font-size: 1.5em;

@@ -56,6 +56,13 @@ ul.posts li {
     font-family: 'Libre Baskerville', serif;
     list-style: none;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 img {
   max-width: 50%;
   height: auto;

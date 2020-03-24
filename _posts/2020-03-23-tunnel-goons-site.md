@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tunnel Goons Website!"
+title: "A Tunnel Goons Website"
 date: 2020-03-23
 ---
 

@@ -8,13 +8,13 @@ nav ul, footer ul {
     list-style: none;
 }
 nav ul li, {
-     font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif;
     display: inline;
     margin-right: 20px;
     font-size: 2em;
 }
 footer ul li {
-     font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif;
     display: inline;
     margin-right: 20px;
     font-size: 1em;

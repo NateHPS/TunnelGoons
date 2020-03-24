@@ -25,6 +25,13 @@ h1 {
     font-family: 'Libre Baskerville', serif;
     font-weight: 700;
 }
+h3 {
+    font-size: 2em;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;

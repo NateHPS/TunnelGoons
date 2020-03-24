@@ -4,15 +4,22 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Nunito', sans-serif;
     padding: 0px;
     list-style: none;
 }
-nav ul li, footer ul li {
+nav ul li, {
+     font-family: 'Nunito', sans-serif;
     display: inline;
     margin-right: 20px;
     font-size: 2em;
 }
+footer ul li {
+     font-family: 'Nunito', sans-serif;
+    display: inline;
+    margin-right: 20px;
+    font-size: 1em;
+}
+
 a {
     text-decoration: none;
     color: #999;
@@ -39,7 +46,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-     font-size: 1em;
+  
 }
 
 ul.posts { 
